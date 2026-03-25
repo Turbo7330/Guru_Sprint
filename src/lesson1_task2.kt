@@ -1,5 +1,7 @@
 fun main() {
-    var
+    var sumOfAplles : Int
 
 
 }
+
+
